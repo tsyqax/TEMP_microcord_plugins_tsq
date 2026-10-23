@@ -12,8 +12,8 @@ But please keep in mind that I have no reason to create anything malicious.
 - [ThreadDEL(beta)](): Make easier delete channel/thread
 
 ### Original Author (If exists)
-NoPhoneLink <-- NoLinkify (by zt, Aliucord)
-ChatFontSizer <-- BetterFontScale (by RazerText, Aliucord)
+- NoPhoneLink <-- NoLinkify (by zt, Aliucord)
+- ChatFontSizer <-- BetterFontScale (by RazerText, Aliucord)
 
 ### Installation
 1. Download the file via the link provided in the plugin list.  

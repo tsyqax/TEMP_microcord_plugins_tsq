@@ -9,7 +9,7 @@ But please keep in mind that I have no reason to create anything malicious.
 ### Plugin List
 - [NoPhoneLink](): Prevent being numbers to phone number
 - [ChatFontSizer](): You can change chat font size separately app font size
-- [ThreadDEL (beta)]: Make easier delete channel/thread
+- [ThreadDEL(beta)](): Make easier delete channel/thread
 
 ### Original Author (If exists)
 NoPhoneLink <-- NoLinkify (by zt, Aliucord)

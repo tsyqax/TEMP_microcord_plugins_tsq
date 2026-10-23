@@ -1,5 +1,5 @@
 # Microcord Plugin Tsq (TEMP)
-I’m not entirely sure what the best folder structure should be for GitHub.
+I’m not entirely sure what the best folder structure should be for GitHub.  
 So for now, I’m just uploading the files.
 
 To ensure you can trust what’s here, I’ve also included the source code.  

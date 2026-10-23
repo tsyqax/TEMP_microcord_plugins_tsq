@@ -1,9 +1,12 @@
 # Microcord Plugin Tsq (TEMP)
-I’m not entirely sure what the best folder structure should be for GitHub, so for now, I’m just uploading the files as they are.  
+I’m not entirely sure what the best folder structure should be for GitHub.
+So for now, I’m just uploading the files.
+
 To ensure you can trust what’s here, I’ve also included the source code.  
 Please note that if a better plugin template becomes available, this might be moved to a different repository.  
+
 When installing some of these plugins, you might see a warning about a **"harmful app"**,  
-But please keep in mind that I have no reason to create anything malicious.  
+but please keep in mind that I have no reason to create anything malicious.  
 (I have no desire to be a threat to anyone.)
 
 ### Plugin List

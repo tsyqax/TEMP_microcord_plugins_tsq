@@ -15,7 +15,7 @@ but please keep in mind that I have no reason to create anything malicious.
 ### Plugin List
 - [NoPhoneLink](https://github.com/tsyqax/TEMP_microcord_plugins_tsq/raw/main/plugins/NoPhoneLink/NoPhoneLink-release.apk): Prevent being numbers to phone number
 - [ChatFontSizer](https://github.com/tsyqax/TEMP_microcord_plugins_tsq/raw/main/plugins/ChatFontSizer/ChatFontSizer-release.apk): You can change chat font size separately app font size
-- [ThreadDEL(beta)](): Make easier delete channel/thread
+- ThreadDEL(beta): Make easier delete channel/thread
 
 ### Original Author (If exists)
 - NoPhoneLink <-- NoLinkify (by zt, Aliucord)

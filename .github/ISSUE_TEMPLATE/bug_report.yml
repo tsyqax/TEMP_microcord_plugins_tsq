@@ -1,0 +1,68 @@
+name: Bug/Crash Report
+description: Report a bug or crash in plugin! It might take a long time to resolve.
+labels: [bug]
+body:
+  - type: input
+    id: pluginName
+    attributes:
+      label: Plugin Info
+      description: Which plugin has bug? And which version?
+      placeholder: TsqPowerFix (1.2.3)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What's the problem?
+      description: Describe in detail. When, how, why, what, etc.
+      placeholder: |
+        Ex) When I open Plugin setting page, but it's not working with saying "ClassCastException".
+    validations:
+      required: true
+
+  - type: textarea
+    id: expectation
+    attributes:
+      label: How is it supposed to be?
+      description: Describe situation or behavior if it worked correctly.
+      placeholder: |
+        Ex) It should open setting page with good working.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction stage
+      description: Provide step-by-step instructions.
+      placeholder: |
+        Steps:
+        1. Go to Plugins page on Aliucord.
+        2. Tap on Setting button of TsqPowerFix.
+        3. Boom!
+    validations:
+      required: true
+
+  - type: textarea
+    id: debug-log
+    attributes:
+      label: Debug Log (Optional)
+      description: Paste debug log with that plugin.
+      value: |
+        ```
+        Paste your crash log here
+        ```
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: agreement-check
+    attributes:
+      label: Before Submitting
+      description: "Please confirm the following:"
+      options:
+        - label: I’ve checked that this issue hasn’t already been reported.
+          required: true
+        - label: I’ve updated or reinstalled that plugin before making this issue.
+          required: true

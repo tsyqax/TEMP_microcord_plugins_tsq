@@ -10,11 +10,11 @@ but please keep in mind that I have no reason to create anything malicious.
 (I have no desire to be a threat to anyone.)
 
 ### Highly Recommand
-- [Tsqbundle](): All plugins are included, so manage is easy
+- [Tsqbundle](https://github.com/tsyqax/TEMP_microcord_plugins_tsq/raw/main/plugins/TsqBundle/TsqBundle-release.apk): All plugins are included, so manage is easy
 
 ### Plugin List
-- [NoPhoneLink](): Prevent being numbers to phone number
-- [ChatFontSizer](): You can change chat font size separately app font size
+- [NoPhoneLink](https://github.com/tsyqax/TEMP_microcord_plugins_tsq/raw/main/plugins/NoPhoneLink/NoPhoneLink-release.apk): Prevent being numbers to phone number
+- [ChatFontSizer](https://github.com/tsyqax/TEMP_microcord_plugins_tsq/raw/main/plugins/ChatFontSizer/ChatFontSizer-release.apk): You can change chat font size separately app font size
 - [ThreadDEL(beta)](): Make easier delete channel/thread
 
 ### Original Author (If exists)

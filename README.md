@@ -9,6 +9,9 @@ When installing some of these plugins, you might see a warning about a **"harmfu
 but please keep in mind that I have no reason to create anything malicious.  
 (I have no desire to be a threat to anyone.)
 
+### Highly Recommand
+- [Tsqbundle](): All plugins are included, so manage is easy
+
 ### Plugin List
 - [NoPhoneLink](): Prevent being numbers to phone number
 - [ChatFontSizer](): You can change chat font size separately app font size
